@@ -1,0 +1,13 @@
+../Core/Src/main.c:66:5:_write	24	static
+../Core/Src/main.c:70:8:bmp280_compensate_T_double	56	static
+../Core/Src/main.c:79:8:bmp280_compensate_P_double	48	static
+../Core/Src/main.c:100:6:compute_temperature	32	static
+../Core/Src/main.c:133:6:configuration	24	static
+../Core/Src/main.c:169:6:temp_calc	24	static
+../Core/Src/main.c:217:6:press_calc	32	static
+../Core/Src/main.c:294:5:main	8	static
+../Core/Src/main.c:344:6:SystemClock_Config	88	static
+../Core/Src/main.c:392:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:426:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:459:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:499:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,13 @@
+main.c:66:5:_write	1
+main.c:70:8:bmp280_compensate_T_double	1
+main.c:79:8:bmp280_compensate_P_double	2
+main.c:100:6:compute_temperature	7
+main.c:133:6:configuration	6
+main.c:169:6:temp_calc	4
+main.c:217:6:press_calc	5
+main.c:294:5:main	1
+main.c:344:6:SystemClock_Config	3
+main.c:392:13:MX_I2C1_Init	2
+main.c:426:13:MX_USART2_UART_Init	2
+main.c:459:13:MX_GPIO_Init	1
+main.c:499:6:Error_Handler	1
